@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-        strings: ["Helen Zarei.", "Fashion Designer.", "Garment Artisan.", "Creative dress Maker"],
-      typeSpeed: 100,
+        strings: ["Helen Zarei.", "a Fashion Designer", "a Garment Artisan.", "a Creative dress Maker"],
+      typeSpeed: 80,
       loop: true,
     });
   });
