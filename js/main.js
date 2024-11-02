@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-        strings: ["Helen Zarei.", "a Fashion Designer", "a Garment Artisan.", "a Creative dress Maker"],
+        strings: ["Helen Zarei.", "a Fashion Designer", "a Garment Artisan", "a Creative dress Maker"],
       typeSpeed: 80,
       loop: true,
     });
